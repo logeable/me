@@ -27,5 +27,5 @@ export default defineConfig({
   },
   srcDir: "src",
   cleanUrls: true,
-  base: "me",
+  base: "/me/",
 });
